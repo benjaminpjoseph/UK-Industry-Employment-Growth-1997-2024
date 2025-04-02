@@ -5,9 +5,9 @@ Project Summary:
 This project examines how employment numbers have changed from year to year in the UK between 1997 and 2024. I focused on three specific industries:
 
 -Education
-<br>
+
 -Human health and Social Work
-<br>  
+
 -Information and Communication
 <br>
 Methodology:
