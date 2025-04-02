@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Right, so, I've had a look at how the number of jobs has changed year on year in the UK, from 1997 up to 2024. I focused on three key industries, you see:
+I looked at how the number of jobs has changed year on year in the UK, from 1997 up to 2024. I focused on three key industries, you see:
 
 * Education
 * Human Health and Social Work
@@ -18,7 +18,7 @@ I used Python to analyse the data, which I got from the Office for National Stat
 
 ## Purpose
 
-The aim of this project was to get a clear picture of the employment growth trends in these important UK industries, and, well, to have a bit of practice with my Python skills, to be honest.
+The aim of this project was to get a clear picture of the employment growth trends in these important UK industries and to flex my Python skills.
 
 ## Tools Used
 
