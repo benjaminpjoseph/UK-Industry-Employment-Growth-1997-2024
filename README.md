@@ -1,37 +1,33 @@
-Project Title: UK Industry Employment Growth (1997-2024)
+# UK Industry Employment Growth (1997-2024)
 
-Project Summary:
+## Project Summary
 
-This project examines how employment numbers have changed from year to year in the UK between 1997 and 2024. I focused on three specific industries:
+This project looks at how the number of jobs has changed each year in the UK from 1997 to 2024. We focused on three important areas:
 
--Education
+* Education
+* Human Health and Social Work
+* Information and Communication
 
--Human health and Social Work
+## Methodology
 
--Information and Communication
+We used Python to study data from the Office for National Statistics (ONS). The data file was called "EMP13 Employment by Industry." Here's what we did:
 
-<br>
-Methodology:
+1.  **Data Preparation:** We cleaned and organized the data to make it easy to use.
+2.  **Growth Calculation:** We figured out the percentage change in jobs from one year to the next.
+3.  **Visualization:** We made line graphs to show how job numbers changed over time.
 
-I used Python to analyze data from the Office for National Statistics (ONS). The data file used was "EMP13 Employment by Industry."
+## Purpose
 
-Here's what I did:
+The goal of this project is to show the trends in job growth in these UK industries and to practice using Python.
 
-Data Preparation: I organised and cleaned the raw data to make it usable.
-Growth Calculation: We calculated the percentage change in employment from one year to the next.
-Visualization: We created line graphs to show the employment trends over time.
+## Tools Used
 
-Purpose:
+* Python (programming language)
+* Pandas (data manipulation library)
+* Matplotlib (data visualization library)
 
-The goal of this project is to provide a clear view of employment growth trends in these important UK industries and to flex my Python skills.
+## Data Source
 
-Tools Used:
+* Office for National Statistics (ONS) - "EMP13 Employment by Industry"
 
-Python (programming language)
-Pandas (data manipulation library)
-Matplotlib (data visualization library)
-
-Data Source:
-
-Office for National Statistics (ONS) - "EMP13 Employment by Industry"
-This project provides a factual overview of employment changes in the specified UK industries.
+This project gives a clear picture of how jobs have changed in these UK industries.
