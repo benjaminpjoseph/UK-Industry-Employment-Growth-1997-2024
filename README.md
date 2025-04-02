@@ -9,6 +9,7 @@ This project examines how employment numbers have changed from year to year in t
 -Human health and Social Work
 
 -Information and Communication
+
 <br>
 Methodology:
 
