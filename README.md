@@ -4,9 +4,10 @@ Project Summary:
 
 This project examines how employment numbers have changed from year to year in the UK between 1997 and 2024. I focused on three specific industries:
 
-Education,
-Human health, and social work
-Information and communication
+-Education
+-Human health and Social Work
+-Information and Communication
+
 Methodology:
 
 I used Python to analyze data from the Office for National Statistics (ONS). The data file used was "EMP13 Employment by Industry."
